@@ -2,12 +2,12 @@
 
 Collection of my AoC solutions
 
-[2017](2017) - OCaml
+[2017](https://github.com/0jdxt/aoc2017) - OCaml
 
-[2018](2018) - Python
+[2018](https://github.com/0jdxt/aoc2018) - Python
 
-[2019](2019) - Rust
+[2019](https://github.com/0jdxt/aoc2020) - Rust
 
-[2020](2020) - Rust
+[2020](https://github.com/0jdxt/aoc2020) - Rust
 
-[2025](2025) - Rust
+[2025](https://github.com/0jdxt/aoc2025) - Rust
