@@ -2,7 +2,7 @@
 
 Collection of my AoC solutions
 
-![GitHub last commit](https://img.shields.io/github/last-commit/0jdxt/aoc2017)
+![GitHub last commit](https://img.shields.io/github/last-commit/0jdxt/aoc2017)<br>
 [2017](https://github.com/0jdxt/aoc2017) - OCaml
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/0jdxt/aoc2018)
